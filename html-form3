@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<h2>, initial-scale=1.0">
+    <title>FORM</title>
+</head>
+<body>
+    <form>
+    <h2>Job Application</h2>
+    <label for="name">Name: </label>
+    <input type="text" name="name" id="name">
+    <br/>
+    <br/>
+    <label for="email">Email ID : </label>
+    <input type="email" name="email" id="email">
+    <br/>
+    <br/>
+    <label for="telephone">Phone No : </label>
+    <input type="tel" name="telephone" id="telephone">
+    <br/>
+    <br/>
+    <label for="file">Resume : </label>
+    <input type="file" name="file" id="file">
+    <br/>
+    <br/>
+    <label for="number"> Experience (in years): </label>
+    <input type="number" name="number" id="number" min="0" max="50">
+    <br/>
+    <br/>
+    <fieldset>
+        <legend>Skills </legend>
+        <label for="checkbox1">HTML</label>
+        <input type="checkbox" name="checkbox" id="checkbox1">
+        <br/>
+        <br/>
+        <label for="checkbox2">CSS</label>
+        <input type="checkbox" name="checkbox" id="checkbox2">
+        <br/>
+        <br/>
+        <label for="checkbox3">JAVASCRIPT</label>
+        <input type="checkbox" name="checkbox" id="checkbox3">
+        <br/>
+        <br/>
+        
+    </fieldset>
+    <br/>
+    <br/>
+    <label for="education">Highest Education : </label>
+    <select name="education" id="education">
+        <option value="High School">High School</option>
+        <option value="Intermediate">Intermediate</option>
+        <option value="Undergraduate">Undergraduate</option>
+        <option value="Postgraduate">Postgraduate</option>
+    </select>
+    <fieldset>
+        <legend>Availability</legend>
+        <label for="radio">Full time </label>
+        <input type="radio" name="radio" id="radio">
+        <br/>
+        <label for="radio2">Part-time </label>
+        <input type="radio" name="radio" id="radio2">
+    </fieldset>
+    <br/>
+
+    <label for="textarea1"> Additional Comments : </label>
+    <br/>
+    <textarea name="textarea" id="textarea1" cols="30" rows="10"></textarea>
+    <button>Submit Application</button>
+    </form>
+</body>
+</html>
