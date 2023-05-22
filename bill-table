@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<t>, initial-scale=1.0">
+    <title>bill data</title>
+</head>
+<FIEldset style="background-color: cornsilk;">
+    <LEGend>BILL DATA OF COMPANY</LEGend>
+<body style="background-color:pink">
+    <table border="1" style="background-color: chartreuse;">
+<thead>
+    <th colspan="2">Purchase order </th>
+    <th colspan="2">purchase date</th>
+</thead>
+<tbody>
+<tr> 
+    <td colspan="2">vendor:
+hxzcvgvsb jgb  gbb bjhxh
+<br/>
+xnbv hbvc vh v nb c fvssssve
+
+    </td>
+    <td colspan="2">ship to :</td>
+</tr>
+<tr>
+    <td>Qty</td>
+    <td>item code</td>
+    <td>description</td>
+    <td> price </td>
+</tr>
+<tr>
+    <td>100</td>
+    <td>ABCDE23</td>
+    <td>PENCIL</td>
+    <td>20.00</td>
+</tr>
+<tr>
+    <TD>1000</TD>
+    <TD>ZXVSHVS</TD>
+    <TD>NOTEBOOK</TD>
+    <TD>100.00</TD>
+</tr>
+<tr>
+    <TD>500</TD>
+    <TD>CFBBVC </TD>
+    <TD>PENS</TD>
+    <TD>70.00</TD>
+</tr>
+<TR>
+    <TD colspan="3">SUBTOTAL</TD>
+    <TD>190.00</TD>
+</TR>
+<TR>
+    <TD colspan="2">GST</TD>
+<TD>5%</TD>
+<TD>9.50</TD>
+</TR>
+<TR>
+    <TD colspan="3">GRAND TOTAL</TD>
+    <TD>199.50</TD>
+</TR>
+
+</tbody>
+</FIeldset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </table>
+</body>
+</html>
