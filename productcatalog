@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Apple Store</title>
+</head>
+<main>
+<body>
+    <header>
+<h1> Apple Store</h1>
+<nav>
+<ul>
+    <li><a href="#Home">Home</a></li>
+    <li><a href="#iphone">iPhone</a></li>
+    <li><a href="#Macbook">Macbook</a></li>
+    <li><a href="#iPods">iPods</a></li>
+</ul>
+</nav>
+</header>
+<section id="iphone">
+<h2>iPhone</h2>
+<h4>iPhone 14 Pro Max</h4>
+<p>
+    <strong>Description : </strong>
+     High-performance Mobile with the latest processor and ample storage.
+</p>
+<p>
+    <strong>Price : </strong>
+    1,80000 INR
+</p>
+<P>
+    <strong>Avaibility : </strong>
+    In Stock
+</P>
+,<img src="iphone14promax.png" alt="iphone" height="200">
+<ul>
+    <li>
+        <strong>RAM : </strong>
+        12 GB
+    </li>
+    <li>
+        <strong>Storage : </strong>
+        512 GB
+    </li>
+    <li>
+        <strong>Camera :</strong>
+        48 MP
+    </li>
+    <li>
+        <strong>Display Size : </strong>
+        6.1 INCH
+    </li>
+</ul>
+
+</section>
+<section id="Macbook">
+    <h2>Macbook</h2>
+    <h4>Macbook Pro M1</h4>
+    <p>
+        <strong>Description : </strong>
+         High-performance Mobile with the latest processor and ample storage.
+    </p>
+    <p>
+        <strong>Price : </strong>
+        1,80000 INR
+    </p>
+    <P>
+        <strong>Avaibility : </strong>
+        In Stock
+    </P>
+    ,<img src="iphone14promax.png" alt="iphone" height="200">
+    <ul>
+        <li>
+            <strong>RAM : </strong>
+            12 GB
+        </li>
+        <li>
+            <strong>Storage : </strong>
+            512 GB
+        </li>
+        <li>
+            <strong>Camera :</strong>
+            48 MP
+        </li>
+        <li>
+            <strong>Display Size : </strong>
+            6.1 INCH
+        </li>
+    </ul>
+    
+    </section>
+    <section id="iPods">
+        <h2>iPhone</h2>
+        <h4>iPhone 14 Pro Max</h4>
+        <p>
+            <strong>Description : </strong>
+             High-performance Mobile with the latest processor and ample storage.
+        </p>
+        <p>
+            <strong>Price : </strong>
+            1,80000 INR
+        </p>
+        <P>
+            <strong>Avaibility : </strong>
+            In Stock
+        </P>
+        ,<img src="iphone14promax.png" alt="iphone" height="200">
+        <ul>
+            <li>
+                <strong>RAM : </strong>
+                12 GB
+            </li>
+            <li>
+                <strong>Storage : </strong>
+                512 GB
+            </li>
+            <li>
+                <strong>Camera :</strong>
+                48 MP
+            </li>
+            <li>
+                <strong>Display Size : </strong>
+                6.1 INCH
+            </li>
+        </ul>
+        
+        </section>
+        
+</body>
+</main>
+</html>
